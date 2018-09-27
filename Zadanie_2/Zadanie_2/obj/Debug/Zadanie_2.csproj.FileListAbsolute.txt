@@ -1,0 +1,14 @@
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csprojResolveAssemblyReference.cache
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csproj.CoreCompileInputs.cache
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe.config
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.pdb
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.exe
+K:\C#\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.pdb
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe.config
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.exe
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\bin\Debug\Zadanie_2.pdb
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csprojAssemblyReference.cache
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.csproj.CoreCompileInputs.cache
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.exe
+D:\_PRACA INFORMATYKA\Praca_zadanie_KeepSkiller\Zadanie_2\Zadanie_2\Zadanie_2\obj\Debug\Zadanie_2.pdb
